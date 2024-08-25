@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">calculator</string>
-    <string name="enter_1st_number">Enter 1st number:</string>
-    <string name="enter_2nd_number">Enter 2nd number:</string>
-    <string name="click_here">Click Here</string>
-    <string name="result">Result</string>
-    <string name="h">Result:</string>
-    <string name="result_e">Result</string>
+    <string name="app_name">To-Do List</string>
+    <string name="submit">Submit</string>
+    <string name="birthday">Birthday</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="count_will_increase_here_0">Count will increase here: 0</string>
+    <string name="click_here_to_increase_count">Click here to increase count</string>
 </resources>
